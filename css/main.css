@@ -170,7 +170,8 @@ body {
   font-size: 48px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
-  position: absolute;
+  position: fixed;
+  z-index: 5;
   font-weight: bold;
   letter-spacing: 10px;
   opacity: 0;
