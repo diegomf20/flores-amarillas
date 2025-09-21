@@ -170,11 +170,12 @@ body {
   bottom: 40px;
   font-weight: bold;
   padding: 6px;
-  margin-bottom: 16px;
+  margin-bottom: 20px;
   font-size: 48px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
   position: fixed;
+  z-index: 5;
   font-weight: bold;
   letter-spacing: 10px;
   opacity: 0;
